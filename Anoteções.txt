@@ -13,3 +13,7 @@ Para fazer comentarios ctrl+k e em seguida ctrl+c, para descelecionar ctrl+k e e
 
 5.  Seção vantagens
 Para fazer comentarios ctrl+.+; para descomentar ctrl+k e em seguida ctrl+u
+ok
+
+6. Seção Contato
+ ok

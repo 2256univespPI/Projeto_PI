@@ -8,4 +8,7 @@ ok
 ok
 
 4. Seção Hero
-Parado no tempo 26:21
+ok
+Para fazer comentarios ctrl+k e em seguida ctrl+c, para descelecionar ctrl+k e em seguida ctrl+u
+
+5.  Seção vantagens

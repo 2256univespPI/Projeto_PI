@@ -5,7 +5,7 @@
     }
 }
 
-@midea screen and (max-width: 878px){
+@midea screen and (max-width: 878px)
     /* Responsivo da hero */
     .hero-site .txt-hero h1 {
         font-size: 3em;

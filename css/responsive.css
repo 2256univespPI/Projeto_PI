@@ -1,0 +1,35 @@
+
+@media screen and (max-width: 900px){
+    header .menu-desktop, header .btn-contato{
+        display: none;
+    }
+}
+
+@midea screen and (max-width: 878px){
+    /* Responsivo da hero */
+    .hero-site .txt-hero h1 {
+        font-size: 3em;
+        line-height: 70px;
+        font-weight: 200;
+     }
+     
+     .hero-site .txt-hero h1 span {
+        display: block;
+        font-weight: 800;
+     }
+     
+     .hero-site .txt-hero p {
+        font-size: 20px;
+        font-weight: 300;
+        margin: 20px 0;
+     }
+     
+     .hero-site .txt-hero p span {
+        display: block;
+     }
+     
+     .hero-site button {
+        width: 220px;
+        height: 60px;
+        font-size: 20px;
+}

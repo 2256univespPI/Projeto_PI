@@ -17,3 +17,18 @@ ok
 
 6. Seção Contato
  ok
+
+ 7.Seção hospedagem
+ ok
+
+ 8. Seção "Como funciona"
+ ok
+
+ 9. Criando o Rodapé
+ ok
+ 
+ 10. Efeito de rolagem do menu
+ ok
+
+ 11. Responsividade
+ 
